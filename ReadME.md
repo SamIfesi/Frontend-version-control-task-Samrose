@@ -18,20 +18,20 @@ This project is designed to demonstrate understanding and practical implementati
 - [x] Clone repository to local machine
 
 ### 2. Branch Management
-- [ ] Create feature/work branches
-- [ ] Follow proper naming conventions
+- [x] Create feature/work branches
+- [x] Follow proper naming conventions
 
 ### 3. Development Workflow
-- [ ] Create and modify project files
-- [ ] Stage changes using `git add`
-- [ ] Commit changes with descriptive messages
-- [ ] Push code to remote repository
+- [x] Create and modify project files
+- [x] Stage changes using `git add`
+- [x] Commit changes with descriptive messages
+- [x] Push code to remote repository
 
 ### 4. Collaboration
-- [ ] Create pull requests
-- [ ] Review code changes
-- [ ] Address feedback
-- [ ] Merge changes to main branch
+- [x] Create pull requests
+- [x] Review code changes
+- [x] Address feedback
+- [x] Merge changes to main branch
 
 ## 🛠️ Essential Git Commands
 
